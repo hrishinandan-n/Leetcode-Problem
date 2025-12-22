@@ -1,9 +1,13 @@
 class Solution:
     def reverseWords(self, s: str) -> str:
-        strings = s.split(" ")
+        slist = []
+        slist = s.split(" ")
+        
         result = []
-        for word in strings:
-            result.append(word[::-1])
+        for i in slist:
+            result.append(i[::-1])
+        
+        new = ""
+        new = " ".join(result)
+        return new
 
-        result = " ".join(result)
-        return result
