@@ -1,0 +1,15 @@
+1class Solution:
+2    def sumOfTheDigitsOfHarshadNumber(self, x: int) -> int:
+3        X = str(x)
+4        total = 0
+5        ret = -1
+6
+7        for digit in X:
+8            total += int(digit)
+9
+10        if x % int(total) == 0:
+11            ret = total
+12
+13        return ret
+14
+15
