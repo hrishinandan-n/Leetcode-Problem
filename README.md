@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/hrishinandan-n/Leetcode-Problem/tree/master/0066-plus-one) |
 | [1480-running-sum-of-1d-array](https://github.com/hrishinandan-n/Leetcode-Problem/tree/master/1480-running-sum-of-1d-array) |
 | [3731-find-missing-elements](https://github.com/hrishinandan-n/Leetcode-Problem/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
@@ -18,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/hrishinandan-n/Leetcode-Problem/tree/master/3731-find-missing-elements) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/hrishinandan-n/Leetcode-Problem/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
