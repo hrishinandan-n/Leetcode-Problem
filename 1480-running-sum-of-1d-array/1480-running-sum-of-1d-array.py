@@ -3,8 +3,8 @@ class Solution:
         total = 0
         arr = []
 
-        for k, v in enumerate(nums):
-            total += v
+        for i in nums:
+            total += i
             arr += [total]
-
+        
         return arr
