@@ -24,9 +24,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/hrishinandan-n/Leetcode-Problem/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/hrishinandan-n/Leetcode-Problem/tree/master/0066-plus-one) |
+| [0412-fizz-buzz](https://github.com/hrishinandan-n/Leetcode-Problem/tree/master/0412-fizz-buzz) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/hrishinandan-n/Leetcode-Problem/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/hrishinandan-n/Leetcode-Problem/tree/master/3345-smallest-divisible-digit-product-i) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/hrishinandan-n/Leetcode-Problem/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/hrishinandan-n/Leetcode-Problem/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
