@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/hrishinandan-n/Leetcode-Problem/tree/master/0066-plus-one) |
 | [1480-running-sum-of-1d-array](https://github.com/hrishinandan-n/Leetcode-Problem/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/hrishinandan-n/Leetcode-Problem/tree/master/1929-concatenation-of-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/hrishinandan-n/Leetcode-Problem/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/hrishinandan-n/Leetcode-Problem/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
@@ -41,4 +42,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/hrishinandan-n/Leetcode-Problem/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/hrishinandan-n/Leetcode-Problem/tree/master/1929-concatenation-of-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/hrishinandan-n/Leetcode-Problem/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
